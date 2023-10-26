@@ -19,7 +19,7 @@ a) Asenna Salt
 - Xubuntulla Saltin asennus meni läpi, versio 3004.1
   - Asensin myös Guest Additions Xubuntuun
 
-b) Viisi tärkeintä
+b) Viisi tärkeintä <br/>
 pkg.installed
   $ sudo salt-call --local -l info state.single pkg.installed tree
   - Result: True
