@@ -41,6 +41,7 @@ Tällä kertaa asensin myös ohjeissa olleen version, joka oli debian/bullseye64
 ![](kuvat/h2-Karjaa/Capture12.PNG)
 
 Tämän jälkeen muokkasin Vagrantfilen niiden ohjeiden mukaan, jotka olivat sivulla https://terokarvinen.com/2023/salt-vagrant/. Muokkauksen tein Notepadilla.
+
 ![](kuvat/h2-Karjaa/Capture13.PNG)
 
 VirtualBoxissa myös näkyy uudet juuri luodut virtuaalikoneet.
