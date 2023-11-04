@@ -58,9 +58,11 @@ Googlaamalla löytyi lopulta korjaava neuvo, eli lisäämällä Vagrantfileen yh
 Orjakoneiden avainten hyväksyminen onnistui. Nämä saatiin esille komennolla sudo salt-key -A. Samoin niiden yhteyksien tarkistaminen (sudo salt '*' test.ping) ja shell-komennon ajaminen (sudo salt '*' cmd.run 'hostname -I').
 ![](kuvat/h2-Karjaa/Capture21.PNG)
 
+### f) Kerää teknistä tietoa orjista verkon yli (grains.item)
 Tietojen hakeminen grains.items sekä grains.item osfinger ipv4.
 ![](kuvat/h2-Karjaa/Capture22.PNG)
 
+### e) Aja useita idempotentteja (state.single) komentoja verkon yli.
 Niin kuin on ollut aiemmin puhe, idempotentti komento on sellainen, jossa kuvataan haluttu lopputulos. Alla ensimmäisessä kuvassa on tapahtunut yksi muutos, kun komento on suoritettu ensimmäisen kerran. Toisessa kuvassa sen sijaan muutoksien määrä on nolla, koska komennossa mainittu tiedosto on jo olemassa. Näissä käytetty komento oli sudo salt '*' state.single file.managed '/tmp/see-you-at-terokarvinen-com'.
 
 ![](kuvat/h2-Karjaa/Capture23.PNG)
