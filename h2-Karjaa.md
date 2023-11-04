@@ -11,7 +11,7 @@
 
 Tein harjoituksen lauantaina 2023-11-04. Työaseman prosessori: 11th Gen Intel(R) Core(TM) i5-11600K @ 3.90GHz 3.91 GHz, RAM: 16.0 GB, järjestelmä: Windows 10 Pro
 
-### 1) Asenna Vagrant
+### a) - d) Asenna Vagrant - Asenna Saltin herra-orja arkkitehtuuri toimimaan verkon yli.
 - Latasin ja asensin Vagrantin (https://developer.hashicorp.com/vagrant/downloads)
 - Katsoin lisäohjeita asentamiseen/alkuunpääsyyn täältä (https://developer.hashicorp.com/vagrant/tutorials/getting-started/getting-started-index) ja täältä (https://developer.hashicorp.com/vagrant/docs/installation), sekä täältä (https://sloopstash.com/blog/how-to-build-vm-on-windows-10-using-virtualbox-vagrant-git-bash.html)
 
@@ -55,6 +55,7 @@ Googlaamalla löytyi lopulta korjaava neuvo, eli lisäämällä Vagrantfileen yh
 ![](kuvat/h2-Karjaa/Capture18.PNG)
 ![](kuvat/h2-Karjaa/Capture19.PNG)
 
+### g) Aja shell-komento orjalla verkon yli.
 Orjakoneiden avainten hyväksyminen onnistui. Nämä saatiin esille komennolla sudo salt-key -A. Samoin niiden yhteyksien tarkistaminen (sudo salt '*' test.ping) ja shell-komennon ajaminen (sudo salt '*' cmd.run 'hostname -I').
 ![](kuvat/h2-Karjaa/Capture21.PNG)
 
@@ -87,6 +88,7 @@ Ja lopuksi poistin käyttäjän terote01 (sudo salt '*' state.single user.absent
 
 ![](kuvat/h2-Karjaa/Capture31.PNG)
 
+### h) Hello, IaC. Tee infraa koodina kirjoittamalla /srv/salt/hello/init.sls.
 Infra as code
 
 ![](kuvat/h2-Karjaa/Capture33.PNG)
