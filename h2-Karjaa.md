@@ -83,6 +83,15 @@ Ja lopuksi poistin käyttäjän terote01.
 
 ![](kuvat/h2-Karjaa/Capture31.PNG)
 
+Infra as code
+
+![](kuvat/h2-Karjaa/Capture33.PNG)
+
+Kirjoitin tehtävänannon mukaan, mutta en tiedä mitä ja miksi.
+![](kuvat/h2-Karjaa/Capture32.PNG)
+
+Täällä loppupuolella tehtävänannossa ei enää kerrottu miksi mitäkin tehtiin, joten oli vaikea arvata mitä oltiin oikeasti tekemässä. Eli en todella tiedä mitä tässä piti tehdä.
+![](kuvat/h2-Karjaa/Capture34.PNG)
 
 ## References
 - Karvinen 2023: Infra as Code 2023 - Palvelinten Hallinta 2023 syksy https://terokarvinen.com/2023/configuration-management-2023-autumn/
