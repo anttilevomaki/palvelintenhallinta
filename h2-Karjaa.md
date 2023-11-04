@@ -62,6 +62,7 @@ Tietojen hakeminen grains.items sekä grains.item osfinger ipv4.
 ![](kuvat/h2-Karjaa/Capture22.PNG)
 
 Niin kuin on ollut aiemmin puhe, idempotentti komento on sellainen, jossa kuvataan haluttu lopputulos. Alla ensimmäisessä kuvassa on tapahtunut yksi muutos, kun komento on suoritettu ensimmäisen kerran. Toisessa kuvassa sen sijaan muutoksien määrä on nolla, koska komennossa mainittu tiedosto on jo olemassa. Näissä käytetty komento oli sudo salt '*' state.single file.managed '/tmp/see-you-at-terokarvinen-com'.
+
 ![](kuvat/h2-Karjaa/Capture23.PNG)
 ![](kuvat/h2-Karjaa/Capture24.PNG)
 
