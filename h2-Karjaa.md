@@ -40,7 +40,7 @@ Tarkistin tässä välissä Vagrantin version, joka oli 2.4.0.
 Tällä kertaa asensin myös ohjeissa olleen version, joka oli debian/bullseye64. Asennus loi kansioon uuden Vagrantfilen, niin kuin pitikin.
 ![](kuvat/h2-Karjaa/Capture12.PNG)
 
-Tämän jälkeen muokkasin Vagrantfilen niiden ohjeiden mukaan, jotka olivat sivulla https://terokarvinen.com/2023/salt-vagrant/.
+Tämän jälkeen muokkasin Vagrantfilen niiden ohjeiden mukaan, jotka olivat sivulla https://terokarvinen.com/2023/salt-vagrant/. Muokkauksen tein Notepadilla.
 ![](kuvat/h2-Karjaa/Capture13.PNG)
 
 VirtualBoxissa myös näkyy uudet juuri luodut virtuaalikoneet.
@@ -54,32 +54,32 @@ Googlaamalla löytyi lopulta korjaava neuvo, eli lisäämällä Vagrantfileen yh
 ![](kuvat/h2-Karjaa/Capture18.PNG)
 ![](kuvat/h2-Karjaa/Capture19.PNG)
 
-Orjakoneiden avainten hyväksyminen onnistui. Samoin niiden yhteyksien tarkistaminen ja shell-komennon ajaminen.
+Orjakoneiden avainten hyväksyminen onnistui. Nämä saatiin esille komennolla sudo salt-key -A. Samoin niiden yhteyksien tarkistaminen (sudo salt '*' test.ping) ja shell-komennon ajaminen (sudo salt '*' cmd.run 'hostname -I').
 ![](kuvat/h2-Karjaa/Capture21.PNG)
 
 Tietojen hakeminen grains.items sekä grains.item osfinger ipv4.
 ![](kuvat/h2-Karjaa/Capture22.PNG)
 
-Niin kuin on ollut aiemmin puhe, idempotentti komento on sellainen, jossa kuvataan haluttu lopputulos. Alla ensimmäisessä kuvassa on tapahtunut yksi muutos, kun komento on suoritettu ensimmäisen kerran. Toisessa kuvassa sen sijaan muutoksien määrä on nolla, koska komennossa mainittu tiedosto on jo olemassa.
+Niin kuin on ollut aiemmin puhe, idempotentti komento on sellainen, jossa kuvataan haluttu lopputulos. Alla ensimmäisessä kuvassa on tapahtunut yksi muutos, kun komento on suoritettu ensimmäisen kerran. Toisessa kuvassa sen sijaan muutoksien määrä on nolla, koska komennossa mainittu tiedosto on jo olemassa. Näissä käytetty komento oli sudo salt '*' state.single file.managed '/tmp/see-you-at-terokarvinen-com'.
 ![](kuvat/h2-Karjaa/Capture23.PNG)
 ![](kuvat/h2-Karjaa/Capture24.PNG)
 
 En tiedä pitikö tässä tulostua terse, mutta ainakin tuloste on lyhyempi, kuin edellisellä komennolla. Ja edelleen nolla muutosta.
 ![](kuvat/h2-Karjaa/Capture25.PNG)
 
-Seuraavaksi asensin apachen molemmille orjakoneille sekä varmistin, että daemon pyörii.
+Seuraavaksi asensin apachen molemmille orjakoneille (sudo salt '*' state.single pkg.installed apache2) sekä varmistin, että daemon pyörii (sudo salt '*' state.single service.running apache2).
 ![](kuvat/h2-Karjaa/Capture26.PNG)
 
-Ja sitten varmistin vielä, että apache pyörii.
+Ja sitten varmistin vielä, että apache pyörii (sudo apt-get -y install curl), (curl -s 192.168.12.102|grep title).
 ![](kuvat/h2-Karjaa/Capture27.PNG)
 
-Tämän jälkeen pysäytin apachen, eikä järjestelmä enää löytänyt sitä.
+Tämän jälkeen pysäytin apachen (sudo salt '*' state.single service.dead apache2), eikä järjestelmä enää löytänyt sitä (curl 192.168.12.102).
 ![](kuvat/h2-Karjaa/Capture28.PNG)
 
-Sitten loin uuden käyttäjän terote01, sekä muokkaisn käyttäjän tietoja.
+Sitten loin uuden käyttäjän terote01 (sudo salt '*' state.single user.present terote01), sekä muokkaisn käyttäjän tietoja (sudo salt '*' state.single user.present terote01 shell="/bin/bash").
 ![](kuvat/h2-Karjaa/Capture30.PNG)
 
-Ja lopuksi poistin käyttäjän terote01.
+Ja lopuksi poistin käyttäjän terote01 (sudo salt '*' state.single user.absent terote01).
 
 ![](kuvat/h2-Karjaa/Capture31.PNG)
 
