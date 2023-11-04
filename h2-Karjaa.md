@@ -104,6 +104,8 @@ Joten tässä lopputulos.
 
 ![](kuvat/h2-Karjaa/Capture35.PNG)
 
+Lopuksi myös koko virtuaalikone meni jumiin, enkä saanut sitä poistettua normaalisti vagrant destroy -komennolla.
+
 ## References
 - Karvinen 2023: Infra as Code 2023 - Palvelinten Hallinta 2023 syksy https://terokarvinen.com/2023/configuration-management-2023-autumn/
 - Slater 2017: What is the definition of "cattle not pets"? https://devops.stackexchange.com/questions/653/what-is-the-definition-of-cattle-not-pets#654
