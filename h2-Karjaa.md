@@ -91,6 +91,7 @@ Kirjoitin tehtävänannon mukaan, mutta en tiedä mitä ja miksi.
 ![](kuvat/h2-Karjaa/Capture32.PNG)
 
 Täällä loppupuolella tehtävänannossa ei enää kerrottu miksi mitäkin tehtiin, joten oli vaikea arvata mitä oltiin oikeasti tekemässä. Eli en todella tiedä mitä tässä piti tehdä.
+
 ![](kuvat/h2-Karjaa/Capture34.PNG)
 
 ## References
