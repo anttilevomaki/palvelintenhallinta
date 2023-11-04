@@ -40,7 +40,7 @@ Tarkistin tässä välissä Vagrantin version, joka oli 2.4.0.
 Tällä kertaa asensin myös ohjeissa olleen version, joka oli debian/bullseye64. Asennus loi kansioon uuden Vagrantfilen, niin kuin pitikin.
 ![](kuvat/h2-Karjaa/Capture12.PNG)
 
-Tämän jälkeen muokkaisn Vagranfilen niiden ohjeiden mukaan, jotka olivat sivulla https://terokarvinen.com/2023/salt-vagrant/.
+Tämän jälkeen muokkasin Vagrantfilen niiden ohjeiden mukaan, jotka olivat sivulla https://terokarvinen.com/2023/salt-vagrant/.
 ![](kuvat/h2-Karjaa/Capture13.PNG)
 
 
