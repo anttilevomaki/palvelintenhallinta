@@ -11,9 +11,11 @@
 
 Tein harjoituksen lauantaina 2023-11-04. Työaseman prosessori: 11th Gen Intel(R) Core(TM) i5-11600K @ 3.90GHz 3.91 GHz, RAM: 16.0 GB, järjestelmä: Windows 10 Pro
 
-1) Asenna Vagrant
+### 1) Asenna Vagrant
 - Latasin ja asensin Vagrantin (https://developer.hashicorp.com/vagrant/downloads) sekä Git Bashin (https://git-scm.com/download/win)
 - Katsoin lisäohjeita asentamiseen/alkuunpääsyyn täältä (https://developer.hashicorp.com/vagrant/tutorials/getting-started/getting-started-index) ja täältä (https://developer.hashicorp.com/vagrant/docs/installation), sekä täältä (https://sloopstash.com/blog/how-to-build-vm-on-windows-10-using-virtualbox-vagrant-git-bash.html)
+
+!(kuvat/h2-Karjaa/Capture1.PNG)
 
 ## References
 Karvinen 2023: Infra as Code 2023 - Palvelinten Hallinta 2023 syksy https://terokarvinen.com/2023/configuration-management-2023-autumn/
