@@ -15,14 +15,17 @@ Tein harjoituksen lauantaina 2023-11-04. Työaseman prosessori: 11th Gen Intel(R
 - Latasin ja asensin Vagrantin (https://developer.hashicorp.com/vagrant/downloads) sekä Git Bashin (https://git-scm.com/download/win)
 - Katsoin lisäohjeita asentamiseen/alkuunpääsyyn täältä (https://developer.hashicorp.com/vagrant/tutorials/getting-started/getting-started-index) ja täältä (https://developer.hashicorp.com/vagrant/docs/installation), sekä täältä (https://sloopstash.com/blog/how-to-build-vm-on-windows-10-using-virtualbox-vagrant-git-bash.html)
 
+Vagrantin asennuksen jälkeen kokeilin aluksi käyttää sitä suoraan Windowsin Command Promptilla.
 ![](kuvat/h2-Karjaa/Capture1.PNG)
 ![](kuvat/h2-Karjaa/Capture2.PNG)
+Käynnistin Vagrantin komennolla vagrant up.
 ![](kuvat/h2-Karjaa/Capture3.PNG)
 ![](kuvat/h2-Karjaa/Capture4.PNG)
+Kokeilin myös SSH:ta. joka toimi, mutta en tehnyt siinä vaiheessa sen enempää.
 ![](kuvat/h2-Karjaa/Capture5.PNG)
-![](kuvat/h2-Karjaa/Capture6.PNG)
+Nopean uloskirjautumisen jälkeen tuhosin virtuaalikoneen komennolla vagrant destroy.
 ![](kuvat/h2-Karjaa/Capture7.PNG)
-![](kuvat/h2-Karjaa/Capture8.PNG)
+
 ![](kuvat/h2-Karjaa/Capture9.PNG)
 
 ## References
