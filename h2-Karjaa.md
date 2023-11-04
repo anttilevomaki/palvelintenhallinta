@@ -43,6 +43,15 @@ Tällä kertaa asensin myös ohjeissa olleen version, joka oli debian/bullseye64
 Tämän jälkeen muokkasin Vagrantfilen niiden ohjeiden mukaan, jotka olivat sivulla https://terokarvinen.com/2023/salt-vagrant/.
 ![](kuvat/h2-Karjaa/Capture13.PNG)
 
+VirtualBoxissa myös näkyy uudet juuri luodut virtuaalikoneet.
+![](kuvat/h2-Karjaa/Capture16.PNG)
+
+Tämä ei kuitenkaan riittänyt, sillä taaskaan mikään ei toiminut, kun teki ohjeiden mukaan. vagrant ssh tmaster -komennolla tuloksena oli Permission denied (publickey).
+![](kuvat/h2-Karjaa/Capture17.PNG)
+
+Googlaamalla löytyi lopulta korjaava neuvo, eli lisäämällä Vagrantfileen yhden rivin ongelma korjaantui. Rivi oli config.ssh.insert_key = false. Näin päästiin lopulta virtuaaliselle master-koneelle.
+![](kuvat/h2-Karjaa/Capture18.PNG)
+![](kuvat/h2-Karjaa/Capture19.PNG)
 
 ## References
 Karvinen 2023: Infra as Code 2023 - Palvelinten Hallinta 2023 syksy https://terokarvinen.com/2023/configuration-management-2023-autumn/
