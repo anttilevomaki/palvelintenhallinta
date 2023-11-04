@@ -64,7 +64,7 @@ Niin kuin on ollut aiemmin puhe, idempotentti komento on sellainen, jossa kuvata
 ![](kuvat/h2-Karjaa/Capture23.PNG)
 ![](kuvat/h2-Karjaa/Capture24.PNG)
 
-Tässä ilmeisesti piti tulostua terse, mutta tulikin samanlainen nolla muutosta -tuloste, kuin edellisellä komennolla.
+En tiedä pitikö tässä tulostua terse, mutta ainakin tuloste on lyhyempi, kuin edellisellä komennolla. Ja edelleen nolla muutosta.
 ![](kuvat/h2-Karjaa/Capture25.PNG)
 
 
