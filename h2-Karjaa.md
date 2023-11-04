@@ -18,11 +18,14 @@ Tein harjoituksen lauantaina 2023-11-04. Työaseman prosessori: 11th Gen Intel(R
 Vagrantin asennuksen jälkeen kokeilin aluksi käyttää sitä suoraan Windowsin Command Promptilla.
 ![](kuvat/h2-Karjaa/Capture1.PNG)
 ![](kuvat/h2-Karjaa/Capture2.PNG)
+
 Käynnistin Vagrantin komennolla vagrant up.
 ![](kuvat/h2-Karjaa/Capture3.PNG)
 ![](kuvat/h2-Karjaa/Capture4.PNG)
+
 Kokeilin myös SSH:ta. joka toimi, mutta en tehnyt siinä vaiheessa sen enempää.
 ![](kuvat/h2-Karjaa/Capture5.PNG)
+
 Nopean uloskirjautumisen jälkeen tuhosin virtuaalikoneen komennolla vagrant destroy.
 ![](kuvat/h2-Karjaa/Capture7.PNG)
 
