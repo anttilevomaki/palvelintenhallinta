@@ -16,6 +16,14 @@ Tein harjoituksen lauantaina 2023-11-04. Työaseman prosessori: 11th Gen Intel(R
 - Katsoin lisäohjeita asentamiseen/alkuunpääsyyn täältä (https://developer.hashicorp.com/vagrant/tutorials/getting-started/getting-started-index) ja täältä (https://developer.hashicorp.com/vagrant/docs/installation), sekä täältä (https://sloopstash.com/blog/how-to-build-vm-on-windows-10-using-virtualbox-vagrant-git-bash.html)
 
 ![](kuvat/h2-Karjaa/Capture1.PNG)
+![](kuvat/h2-Karjaa/Capture2.PNG)
+![](kuvat/h2-Karjaa/Capture3.PNG)
+![](kuvat/h2-Karjaa/Capture4.PNG)
+![](kuvat/h2-Karjaa/Capture5.PNG)
+![](kuvat/h2-Karjaa/Capture6.PNG)
+![](kuvat/h2-Karjaa/Capture7.PNG)
+![](kuvat/h2-Karjaa/Capture8.PNG)
+![](kuvat/h2-Karjaa/Capture9.PNG)
 
 ## References
 Karvinen 2023: Infra as Code 2023 - Palvelinten Hallinta 2023 syksy https://terokarvinen.com/2023/configuration-management-2023-autumn/
