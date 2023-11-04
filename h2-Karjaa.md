@@ -67,12 +67,19 @@ Niin kuin on ollut aiemmin puhe, idempotentti komento on sellainen, jossa kuvata
 En tiedä pitikö tässä tulostua terse, mutta ainakin tuloste on lyhyempi, kuin edellisellä komennolla. Ja edelleen nolla muutosta.
 ![](kuvat/h2-Karjaa/Capture25.PNG)
 
-
+Seuraavaksi asensin apachen molemmille orjakoneille sekä varmistin, että daemon pyörii.
 ![](kuvat/h2-Karjaa/Capture26.PNG)
+
+Ja sitten varmistin vielä, että apache pyörii.
 ![](kuvat/h2-Karjaa/Capture27.PNG)
+
+Tämän jälkeen pysäytin apachen, eikä järjestelmä enää löytänyt sitä.
 ![](kuvat/h2-Karjaa/Capture28.PNG)
-![](kuvat/h2-Karjaa/Capture29.PNG)
+
+Sitten loin uuden käyttäjän terote01, sekä muokkaisn käyttäjän tietoja.
 ![](kuvat/h2-Karjaa/Capture30.PNG)
+
+Ja lopuksi poistin käyttäjän terote01.
 ![](kuvat/h2-Karjaa/Capture31.PNG)
 
 
