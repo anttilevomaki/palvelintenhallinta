@@ -68,6 +68,13 @@ En tiedä pitikö tässä tulostua terse, mutta ainakin tuloste on lyhyempi, kui
 ![](kuvat/h2-Karjaa/Capture25.PNG)
 
 
+![](kuvat/h2-Karjaa/Capture26.PNG)
+![](kuvat/h2-Karjaa/Capture27.PNG)
+![](kuvat/h2-Karjaa/Capture28.PNG)
+![](kuvat/h2-Karjaa/Capture29.PNG)
+![](kuvat/h2-Karjaa/Capture30.PNG)
+![](kuvat/h2-Karjaa/Capture31.PNG)
+
 
 ## References
 - Karvinen 2023: Infra as Code 2023 - Palvelinten Hallinta 2023 syksy https://terokarvinen.com/2023/configuration-management-2023-autumn/
