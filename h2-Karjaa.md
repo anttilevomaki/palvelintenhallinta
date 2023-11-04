@@ -70,13 +70,13 @@ En tiedä pitikö tässä tulostua terse, mutta ainakin tuloste on lyhyempi, kui
 
 
 ## References
-Karvinen 2023: Infra as Code 2023 - Palvelinten Hallinta 2023 syksy https://terokarvinen.com/2023/configuration-management-2023-autumn/
-Slater 2017: What is the definition of "cattle not pets"? https://devops.stackexchange.com/questions/653/what-is-the-definition-of-cattle-not-pets#654
-Karvinen 2017: Vagrant Revisited – Install & Boot New Virtual Machine in 31 seconds https://terokarvinen.com/2017/04/11/vagrant-revisited-install-boot-new-virtual-machine-in-31-seconds/
-Karvinen: Salt Vagrant - automatically provision one master and two slaves https://terokarvinen.com/2023/salt-vagrant/
-HashiCorp: Install Vagrant https://developer.hashicorp.com/vagrant/downloads
-HashiCorp: Install Vagrant https://developer.hashicorp.com/vagrant/docs/installation
-HashiCorp: What is Vagrant? https://developer.hashicorp.com/vagrant/tutorials/getting-started/getting-started-index
-Sloopstash: How to build VM on Windows 10 using VirtualBox, Vagrant, and Git Bash? https://sloopstash.com/blog/how-to-build-vm-on-windows-10-using-virtualbox-vagrant-git-bash.html
-Git-scm.com: Download for windows https://git-scm.com/download/win
-Dr. HuuPV: vagrant ssh Permission denied fixed https://www.devopsroles.com/vagrant-ssh-permission-denied-fixed/
+- Karvinen 2023: Infra as Code 2023 - Palvelinten Hallinta 2023 syksy https://terokarvinen.com/2023/configuration-management-2023-autumn/
+- Slater 2017: What is the definition of "cattle not pets"? https://devops.stackexchange.com/questions/653/what-is-the-definition-of-cattle-not-pets#654
+- Karvinen 2017: Vagrant Revisited – Install & Boot New Virtual Machine in 31 seconds https://terokarvinen.com/2017/04/11/vagrant-revisited-install-boot-new-virtual-machine-in-31-seconds/
+- Karvinen: Salt Vagrant - automatically provision one master and two slaves https://terokarvinen.com/2023/salt-vagrant/
+- HashiCorp: Install Vagrant https://developer.hashicorp.com/vagrant/downloads
+- HashiCorp: Install Vagrant https://developer.hashicorp.com/vagrant/docs/installation
+- HashiCorp: What is Vagrant? https://developer.hashicorp.com/vagrant/tutorials/getting-started/getting-started-index
+- Sloopstash: How to build VM on Windows 10 using VirtualBox, Vagrant, and Git Bash? https://sloopstash.com/blog/how-to-build-vm-on-windows-10-using-virtualbox-vagrant-git-bash.html
+- Git-scm.com: Download for windows https://git-scm.com/download/win
+- Dr. HuuPV: vagrant ssh Permission denied fixed https://www.devopsroles.com/vagrant-ssh-permission-denied-fixed/
