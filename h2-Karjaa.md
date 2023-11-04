@@ -50,16 +50,21 @@ Tämä ei kuitenkaan riittänyt, sillä taaskaan mikään ei toiminut, kun teki 
 
 ![](kuvat/h2-Karjaa/Capture17.PNG)
 
-Googlaamalla löytyi lopulta korjaava neuvo, eli lisäämällä Vagrantfileen yhden rivin ongelma korjaantui. Rivi oli config.ssh.insert_key = false. Näin päästiin lopulta virtuaaliselle master-koneelle.
+Googlaamalla löytyi lopulta korjaava neuvo, eli lisäämällä Vagrantfileen yhden rivin ongelma korjaantui. Kyseinen rivi oli config.ssh.insert_key = false. Näin päästiin lopulta virtuaaliselle master-koneelle. (https://www.devopsroles.com/vagrant-ssh-permission-denied-fixed/)
 ![](kuvat/h2-Karjaa/Capture18.PNG)
 ![](kuvat/h2-Karjaa/Capture19.PNG)
 
-
-![](kuvat/h2-Karjaa/Capture20.PNG)
+Orjakoneiden avainten hyväksyminen onnistui. Samoin niiden yhteyksien tarkistaminen ja shell-komennon ajaminen.
 ![](kuvat/h2-Karjaa/Capture21.PNG)
+
+Tietojen hakeminen grains.items sekä grains.item osfinger ipv4.
 ![](kuvat/h2-Karjaa/Capture22.PNG)
+
+Niin kuin on ollut aiemmin puhe, idempotentti komento on sellainen, jossa kuvataan haluttu lopputulos. Alla ensimmäisessä kuvassa on tapahtunut yksi muutos, kun komento on suoritettu ensimmäisen kerran. Toisessa kuvassa sen sijaan muutoksien määrä on nolla, koska komennossa mainittu tiedosto on jo olemassa.
 ![](kuvat/h2-Karjaa/Capture23.PNG)
 ![](kuvat/h2-Karjaa/Capture24.PNG)
+
+Tässä ilmeisesti piti tulostua terse, mutta tulikin samanlainen nolla muutosta -tuloste, kuin edellisellä komennolla.
 ![](kuvat/h2-Karjaa/Capture25.PNG)
 
 
@@ -74,3 +79,4 @@ HashiCorp: Install Vagrant https://developer.hashicorp.com/vagrant/docs/installa
 HashiCorp: What is Vagrant? https://developer.hashicorp.com/vagrant/tutorials/getting-started/getting-started-index
 Sloopstash: How to build VM on Windows 10 using VirtualBox, Vagrant, and Git Bash? https://sloopstash.com/blog/how-to-build-vm-on-windows-10-using-virtualbox-vagrant-git-bash.html
 Git-scm.com: Download for windows https://git-scm.com/download/win
+Dr. HuuPV: vagrant ssh Permission denied fixed https://www.devopsroles.com/vagrant-ssh-permission-denied-fixed/
