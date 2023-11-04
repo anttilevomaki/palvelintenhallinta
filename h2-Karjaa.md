@@ -34,6 +34,7 @@ Git Bashissa aluksi asetin käyttäjänimen ja sähköpostiosoitteen.
 ![](kuvat/h2-Karjaa/Capture10.PNG)
 
 Tarkistin tässä välissä Vagrantin version, joka oli 2.4.0.
+
 ![](kuvat/h2-Karjaa/Capture14.PNG)
 
 Tällä kertaa asensin myös ohjeissa olleen version, joka oli debian/bullseye64. Asennus loi kansioon uuden Vagrantfilen, niin kuin pitikin.
