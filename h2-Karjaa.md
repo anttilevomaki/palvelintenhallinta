@@ -47,6 +47,7 @@ VirtualBoxissa myös näkyy uudet juuri luodut virtuaalikoneet.
 ![](kuvat/h2-Karjaa/Capture16.PNG)
 
 Tämä ei kuitenkaan riittänyt, sillä taaskaan mikään ei toiminut, kun teki ohjeiden mukaan. vagrant ssh tmaster -komennolla tuloksena oli Permission denied (publickey).
+
 ![](kuvat/h2-Karjaa/Capture17.PNG)
 
 Googlaamalla löytyi lopulta korjaava neuvo, eli lisäämällä Vagrantfileen yhden rivin ongelma korjaantui. Rivi oli config.ssh.insert_key = false. Näin päästiin lopulta virtuaaliselle master-koneelle.
