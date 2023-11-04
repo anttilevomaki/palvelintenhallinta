@@ -80,6 +80,7 @@ Sitten loin uuden käyttäjän terote01, sekä muokkaisn käyttäjän tietoja.
 ![](kuvat/h2-Karjaa/Capture30.PNG)
 
 Ja lopuksi poistin käyttäjän terote01.
+
 ![](kuvat/h2-Karjaa/Capture31.PNG)
 
 
