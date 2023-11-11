@@ -37,8 +37,10 @@ Tein nanolla muutoksia readme-tiedostoon.
 
 ![](kuvat/h3-Versio/Capture24.PNG)
 
-
+Komennolla git add . tallensin muutokset seuraavaa commitia varten. git commit -komennolla tallensin muutokset omalle koneelle. Commit messageksi laitoin "Add reverse thurst estimation to main view". Git pushilla työnsin muutokset Githubiin.
 ![](kuvat/h3-Versio/Capture22.PNG)
+
+Kuten alla olevasta kuvasta näkyy, muutokset menivät läpi.
 ![](kuvat/h3-Versio/Capture23.PNG)
 
 
