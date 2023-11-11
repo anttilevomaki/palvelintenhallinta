@@ -10,10 +10,13 @@ Aluksi tein uuden varaston Githubiin Tero Karvisen ohjeilla. (https://terokarvin
 Avasin omalla koneella GitBashin ja loin uuden kansion nimellä github, jonne kloonaan winter-varaston Githubista. (Github 2023)
 ![](kuvat/h3-Versio/Capture3.PNG)
 
-Varmistin Githubin ohjeiden mukaan, että omalla koneella ei ole ennenstään ssh-avainta.
+Varmistin Githubin ohjeiden mukaan, että omalla koneella ei ole ennenstään ssh-avainta. (Github 2023)
 
 ![](kuvat/h3-Versio/Capture4.PNG)
 
+Tämän jälkeen loin ssh-avaimen Githubin ohjeiden mukaan.
+
+![](kuvat/h3-Versio/Capture6.PNG)
 
 
 ## References
@@ -21,3 +24,4 @@ Varmistin Githubin ohjeiden mukaan, että omalla koneella ei ole ennenstään ss
 - Karvinen 2023: Create a Web Page Using Github https://terokarvinen.com/2023/create-a-web-page-using-github/
 - Github 2023: Cloning a repository  https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 - Github 2023: Checking for existing SSH keys https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys
+- Github 2023: Generating a new SSH key and adding it to the ssh-agent https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
