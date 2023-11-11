@@ -8,7 +8,7 @@ Aluksi tein uuden varaston Githubiin Tero Karvisen ohjeilla. (https://terokarvin
 
 ### b) Dolly
 Avasin omalla koneella GitBashin ja loin uuden kansion nimellä github, jonne kloonaan winter-varaston Githubista.
-
+![](kuvat/h3-Versio/Capture3.PNG)
 
 ## References
 - Karvinen 2023: Infra as Code 2023 - Palvelinten Hallinta 2023 syksy https://terokarvinen.com/2023/configuration-management-2023-autumn/
