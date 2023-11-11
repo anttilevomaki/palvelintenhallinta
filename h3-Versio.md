@@ -53,8 +53,15 @@ Tein tyhmän muutoksen readme-tiedostoon.
 Uusi git status, muutoksia tehty readme-tiedostoon.
 ![](kuvat/h3-Versio/Capture27.PNG)
 
-Annoin vielä git add . -komennon, jonka jälkeen uusi git status. readme-tiedoston muutos odottaa committia. Git reset --hard -komennolla tuhosin muutokset, edellinen päivitys palasi voimaan ja uusi git status -tarkistus näytti, että ei ole enää päivittämistä odottavia muutoksia.
+Annoin vielä git add . -komennon, jonka jälkeen uusi git status. Readme-tiedoston muutos odottaa committia. Git reset --hard -komennolla tuhosin muutokset, edellinen päivitys palasi voimaan ja uusi git status -tarkistus näytti, että ei ole enää päivittämistä odottavia muutoksia.
 ![](kuvat/h3-Versio/Capture30.PNG)
+
+### (d Tukki
+Pelkkä git commit -komento näytti kaikki kolme committia, mitkä varastoon on tehty.
+![](kuvat/h3-Versio/Capture31.PNG)
+
+Git commit --patch -komennolla tuli enemmän dataa, mm. muutosten sisällöstä ja tiedostoista.
+![](kuvat/h3-Versio/Capture32.PNG)
 
 
 ## References
