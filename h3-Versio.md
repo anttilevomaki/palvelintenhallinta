@@ -20,8 +20,10 @@ Tämän jälkeen loin ssh-avaimen Githubin ohjeiden mukaan. (https://docs.github
 
 Sitten kopioin ssh-avaimen leikepöydälle...
 ![](kuvat/h3-Versio/Capture9.PNG)
+
 ...ja loin Githubissa uuden ssh-avainparin...
 ![](kuvat/h3-Versio/Capture10.PNG)
+
 sekä authentication-, että signing-avaimeksi.
 ![](kuvat/h3-Versio/Capture12.png)
 
