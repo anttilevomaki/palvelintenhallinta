@@ -43,6 +43,13 @@ Komennolla git add . tallensin muutokset seuraavaa commitia varten. git commit -
 Kuten alla olevasta kuvasta näkyy, muutokset menivät läpi.
 ![](kuvat/h3-Versio/Capture23.PNG)
 
+### (c Doh!
+Tein tyhmän muutoksen readme-tiedostoon.
+![](kuvat/h3-Versio/Capture25.PNG)
+![](kuvat/h3-Versio/Capture26.PNG)
+![](kuvat/h3-Versio/Capture27.PNG)
+![](kuvat/h3-Versio/Capture30.PNG)
+
 
 ## References
 - Karvinen 2023: Infra as Code 2023 - Palvelinten Hallinta 2023 syksy https://terokarvinen.com/2023/configuration-management-2023-autumn/
