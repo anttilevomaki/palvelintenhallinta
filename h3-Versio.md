@@ -60,8 +60,8 @@ Annoin vielä git add . -komennon, jonka jälkeen uusi git status. Readme-tiedos
 Pelkkä git commit -komento näytti kaikki kolme committia, mitkä varastoon on tehty.
 ![](kuvat/h3-Versio/Capture31.PNG)
 
-Git commit --patch -komennolla tuli enemmän dataa, mm. muutosten sisällöstä ja tiedostoista.
-![](kuvat/h3-Versio/Capture32.PNG)
+Git commit --patch -komennolla tuli enemmän dataa, mm. muutosten sisällöstä ja tiedostoista, sekä koko GNU lisenssi.
+![](kuvat/h3-Versio/Capture33.PNG)
 
 
 ## References
