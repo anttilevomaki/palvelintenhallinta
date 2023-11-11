@@ -27,6 +27,13 @@ Sitten kopioin ssh-avaimen leikepöydälle...
 sekä authentication-, että signing-avaimeksi. (https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 ![](kuvat/h3-Versio/Capture12.png)
 
+Kloonausta varten kävin kopioimassa Githubista winter-varaston osoitteen.
+![](kuvat/h3-Versio/Capture13.png)
+
+Gitbashilla kloonasin varaston omalle koneelle.
+![](kuvat/h3-Versio/Capture15.png)
+
+
 
 ## References
 - Karvinen 2023: Infra as Code 2023 - Palvelinten Hallinta 2023 syksy https://terokarvinen.com/2023/configuration-management-2023-autumn/
