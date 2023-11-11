@@ -18,6 +18,10 @@ Tämän jälkeen loin ssh-avaimen Githubin ohjeiden mukaan.
 
 ![](kuvat/h3-Versio/Capture6.PNG)
 
+![](kuvat/h3-Versio/Capture9.PNG)
+![](kuvat/h3-Versio/Capture10.PNG)
+![](kuvat/h3-Versio/Capture11.PNG)
+
 
 ## References
 - Karvinen 2023: Infra as Code 2023 - Palvelinten Hallinta 2023 syksy https://terokarvinen.com/2023/configuration-management-2023-autumn/
@@ -25,3 +29,4 @@ Tämän jälkeen loin ssh-avaimen Githubin ohjeiden mukaan.
 - Github 2023: Cloning a repository  https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 - Github 2023: Checking for existing SSH keys https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys
 - Github 2023: Generating a new SSH key and adding it to the ssh-agent https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+- Github 2023: Adding a new SSH key to your GitHub account https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
