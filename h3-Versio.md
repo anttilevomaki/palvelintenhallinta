@@ -34,6 +34,10 @@ Gitbashilla kloonasin varaston omalle koneelle.
 ![](kuvat/h3-Versio/Capture17.png)
 
 
+![](kuvat/h3-Versio/Capture24.PNG)
+![](kuvat/h3-Versio/Capture22.PNG)
+![](kuvat/h3-Versio/Capture23.PNG)
+
 
 ## References
 - Karvinen 2023: Infra as Code 2023 - Palvelinten Hallinta 2023 syksy https://terokarvinen.com/2023/configuration-management-2023-autumn/
