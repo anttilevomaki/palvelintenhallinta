@@ -7,9 +7,14 @@ Aluksi tein uuden varaston Githubiin Tero Karvisen ohjeilla. (https://terokarvin
 ![](kuvat/h3-Versio/Capture2.PNG)
 
 ### b) Dolly
-Avasin omalla koneella GitBashin ja loin uuden kansion nimellä github, jonne kloonaan winter-varaston Githubista.
+Avasin omalla koneella GitBashin ja loin uuden kansion nimellä github, jonne kloonaan winter-varaston Githubista. (Github 2023)
 ![](kuvat/h3-Versio/Capture3.PNG)
+Varmistin Githubin ohjeiden mukaan, että omalla koneella ei ole ennenstään ssh-avainta.
+![](kuvat/h3-Versio/Capture4.PNG)
+
 
 ## References
 - Karvinen 2023: Infra as Code 2023 - Palvelinten Hallinta 2023 syksy https://terokarvinen.com/2023/configuration-management-2023-autumn/
 - Karvinen 2023: Create a Web Page Using Github https://terokarvinen.com/2023/create-a-web-page-using-github/
+- Github 2023: Cloning a repository  https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+- Github 2023: Checking for existing SSH keys https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys
