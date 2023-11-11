@@ -14,12 +14,15 @@ Varmistin Githubin ohjeiden mukaan, että omalla koneella ei ole ennenstään ss
 
 ![](kuvat/h3-Versio/Capture4.PNG)
 
-Tämän jälkeen loin ssh-avaimen Githubin ohjeiden mukaan.
+Tämän jälkeen loin ssh-avaimen Githubin ohjeiden mukaan. (https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
 
 ![](kuvat/h3-Versio/Capture6.PNG)
 
+Sitten kopioin ssh-avaimen leikepöydälle...
 ![](kuvat/h3-Versio/Capture9.PNG)
+...ja loin Githubissa uuden ssh-avainparin...
 ![](kuvat/h3-Versio/Capture10.PNG)
+sekä authentication-, että signing-avaimeksi.
 ![](kuvat/h3-Versio/Capture12.png)
 
 
