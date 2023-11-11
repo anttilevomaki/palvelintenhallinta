@@ -24,7 +24,7 @@ Sitten kopioin ssh-avaimen leikepöydälle...
 ...ja loin Githubissa uuden ssh-avainparin...
 ![](kuvat/h3-Versio/Capture10.PNG)
 
-sekä authentication-, että signing-avaimeksi.
+sekä authentication-, että signing-avaimeksi. (https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account)
 ![](kuvat/h3-Versio/Capture12.png)
 
 
