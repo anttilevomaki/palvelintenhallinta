@@ -44,10 +44,16 @@ Kuten alla olevasta kuvasta näkyy, muutokset menivät läpi.
 ![](kuvat/h3-Versio/Capture23.PNG)
 
 ### (c Doh!
-Tein tyhmän muutoksen readme-tiedostoon.
+Tarkistin aluksi gitin statuksen. Up to date, nothing to commit.
 ![](kuvat/h3-Versio/Capture25.PNG)
+
+Tein tyhmän muutoksen readme-tiedostoon.
 ![](kuvat/h3-Versio/Capture26.PNG)
+
+Uusi git status, muutoksia tehty readme-tiedostoon.
 ![](kuvat/h3-Versio/Capture27.PNG)
+
+Annoin vielä git add . -komennon, jonka jälkeen uusi git status. readme-tiedoston muutos odottaa committia. Git reset --hard -komennolla tuhosin muutokset, edellinen päivitys palasi voimaan ja uusi git status -tarkistus näytti, että ei ole enää päivittämistä odottavia muutoksia.
 ![](kuvat/h3-Versio/Capture30.PNG)
 
 
