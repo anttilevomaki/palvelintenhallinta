@@ -28,10 +28,10 @@ sekä authentication-, että signing-avaimeksi. (https://docs.github.com/en/auth
 ![](kuvat/h3-Versio/Capture12.png)
 
 Kloonausta varten kävin kopioimassa Githubista winter-varaston osoitteen.
-![](kuvat/h3-Versio/Capture13.png)
+![](kuvat/h3-Versio/Capture13.PNG)
 
 Gitbashilla kloonasin varaston omalle koneelle.
-![](kuvat/h3-Versio/Capture15.png)
+![](kuvat/h3-Versio/Capture15.PNG)
 
 
 
