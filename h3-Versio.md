@@ -9,8 +9,11 @@ Aluksi tein uuden varaston Githubiin Tero Karvisen ohjeilla. (https://terokarvin
 ### b) Dolly
 Avasin omalla koneella GitBashin ja loin uuden kansion nimellä github, jonne kloonaan winter-varaston Githubista. (Github 2023)
 ![](kuvat/h3-Versio/Capture3.PNG)
+
 Varmistin Githubin ohjeiden mukaan, että omalla koneella ei ole ennenstään ssh-avainta.
+
 ![](kuvat/h3-Versio/Capture4.PNG)
+
 
 
 ## References
