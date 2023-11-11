@@ -33,8 +33,11 @@ Kloonausta varten kävin kopioimassa Githubista winter-varaston osoitteen.
 Gitbashilla kloonasin varaston omalle koneelle.
 ![](kuvat/h3-Versio/Capture17.png)
 
+Tein nanolla muutoksia readme-tiedostoon.
 
 ![](kuvat/h3-Versio/Capture24.PNG)
+
+
 ![](kuvat/h3-Versio/Capture22.PNG)
 ![](kuvat/h3-Versio/Capture23.PNG)
 
