@@ -31,7 +31,7 @@ Kloonausta varten kävin kopioimassa Githubista winter-varaston osoitteen.
 ![](kuvat/h3-Versio/Capture13.PNG)
 
 Gitbashilla kloonasin varaston omalle koneelle.
-![](kuvat/h3-Versio/Capture15.PNG)
+![](kuvat/h3-Versio/Capture16.PNG)
 
 
 
