@@ -44,7 +44,7 @@ Kuten alla olevasta kuvasta näkyy, muutokset menivät läpi.
 ![](kuvat/h3-Versio/Capture23.PNG)
 
 ### (c Doh!
-Tarkistin aluksi gitin statuksen. Up to date, nothing to commit.
+Tarkistin aluksi gitin statuksen. Up to date, nothing to commit. (https://www.atlassian.com/git/tutorials/undoing-changes/git-reset)
 ![](kuvat/h3-Versio/Capture25.PNG)
 
 Tein tyhmän muutoksen readme-tiedostoon.
@@ -71,3 +71,4 @@ Git commit --patch -komennolla tuli enemmän dataa, mm. muutosten sisällöstä 
 - Github 2023: Checking for existing SSH keys https://docs.github.com/en/authentication/connecting-to-github-with-ssh/checking-for-existing-ssh-keys
 - Github 2023: Generating a new SSH key and adding it to the ssh-agent https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
 - Github 2023: Adding a new SSH key to your GitHub account https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+- Atlassian 2023: Git reset https://www.atlassian.com/git/tutorials/undoing-changes/git-reset
