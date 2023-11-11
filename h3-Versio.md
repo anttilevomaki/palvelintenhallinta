@@ -20,7 +20,7 @@ Tämän jälkeen loin ssh-avaimen Githubin ohjeiden mukaan.
 
 ![](kuvat/h3-Versio/Capture9.PNG)
 ![](kuvat/h3-Versio/Capture10.PNG)
-![](kuvat/h3-Versio/Capture11.PNG)
+![](kuvat/h3-Versio/Capture12.PNG)
 
 
 ## References
