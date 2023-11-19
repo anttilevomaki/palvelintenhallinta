@@ -18,3 +18,4 @@ Tein harjoituksen 2023-19-11. Työaseman prosessori: 11th Gen Intel(R) Core(TM) 
     - State treen salt states tulee kirjoittaa niin, että toinen kehittäjä voi nopeasti todeta salt states tarkoituksen
     - Koska joissakin ympäristöissä on satoja tilatiedostoja, jotka on kohdistettu tuhansiin orjiin, ei ole käytännöllistä ajaa jokaista tilaa erikseen ja kohdistaa sitten soveltuviin orjiin joka kerta
     - Itse asia tilan id:ksi, name arvoksi tulee automaattisesti sama
+
