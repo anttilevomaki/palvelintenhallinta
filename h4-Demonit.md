@@ -75,6 +75,12 @@ Ilo oli osittain lyhytaikainen, sillä vaikka suurin osa asennuksista onnistui, 
 
 ### d) SSHouto
 
+![](kuvat/h4-Demonit/Capture33.PNG)
+
+![](kuvat/h4-Demonit/Capture32.PNG)
+
+![](kuvat/h4-Demonit/Capture34.PNG)
+
 
 ## References
 - Karvinen 2023: Infra as Code 2023 - Palvelinten Hallinta 2023 syksy https://terokarvinen.com/2023/configuration-management-2023-autumn/
