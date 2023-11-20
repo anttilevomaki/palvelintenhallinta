@@ -84,7 +84,7 @@ Aluksi loin komentorivillä tarvittavat tiedostot, joista ensimmäinen oli sshd.
 Toinen tiedosto oli sshd_config. Molemmat tiedostot tein Tero Karvisen ohjeilla. (https://terokarvinen.com/2018/04/03/pkg-file-service-control-daemons-with-salt-change-ssh-server-port/?fromSearch=karvinen%20salt%20ssh)
 ![](kuvat/h4-Demonit/Capture34.PNG)
 
-Yhteydet eivät toimineet, joten olin tämän loppuosan kohdalla jo luovuttanut, mutta nähtyäni toisen raportin, tein tänne vielä pari asiaa.
+Yhteydet eivät toimineet, joten olin tämän loppuosan kohdalla jo luovuttanut, mutta nähtyäni toisen raportin, tein tänne vielä pari asiaa. Ainakin siis joku yhteys tämän jälkeen toimi. Lisäsin portin sshd_config-tiedostoon, asensin netcatin ja kokeilin localhost-yhteyttä.
 ![](kuvat/h4-Demonit/Capture41.PNG)
 ![](kuvat/h4-Demonit/Capture42.PNG)
 ![](kuvat/h4-Demonit/Capture44.PNG)
