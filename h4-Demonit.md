@@ -98,3 +98,4 @@ Komento ei kuitenkaan toiminut, vaikka master ja minion oli koneelle asennettu a
 - Karvinen 2023: Salt Vagrant - automatically provision one master and two slaves https://terokarvinen.com/2023/salt-vagrant/
 - Karvinen 2018: Apache User Homepages Automatically – Salt Package-File-Service Example https://terokarvinen.com/2018/apache-user-homepages-automatically-salt-package-file-service-example/
 - Karvinen 2018: Pkg-File-Service – Control Daemons with Salt – Change SSH Server Port https://terokarvinen.com/2018/04/03/pkg-file-service-control-daemons-with-salt-change-ssh-server-port/?fromSearch=karvinen%20salt%20ssh
+- Karppinen 2023: h4 Demonit https://github.com/SakuKarp/Palvelinten.Hallinta/blob/main/h4%20Demonit.md
