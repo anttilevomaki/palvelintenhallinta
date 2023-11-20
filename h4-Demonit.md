@@ -65,9 +65,10 @@ Sitten tein sls-tiedoston Tero Karvisen ohjeiden mukaan. (https://terokarvinen.c
 
 ![](kuvat/h4-Demonit/Capture26.PNG)
 
-Ensimmäisellä yrityksellä tuli virheilmoitus, joka johtui kirjoitusvirheestä
+Ensimmäisellä yrityksellä tuli virheilmoitus, joka johtui kirjoitusvirheestä, mutta kun poistin numeron 2 sanan apache lopusta ja ajoin komennon uudestaan, se lähti pyörimään.
 ![](kuvat/h4-Demonit/Capture27.PNG)
 
+Ilo oli osittain lyhytaikainen, sillä vaikka suurin osa asennuksista onnistui, yksi ei mennyt läpi.
 ![](kuvat/h4-Demonit/Capture28.PNG)
 
 ![](kuvat/h4-Demonit/Capture29.PNG)
