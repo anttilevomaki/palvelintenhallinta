@@ -2,7 +2,7 @@
 
 # Kesken
 
-Tein harjoituksen 2023-11-20. Työaseman prosessori: 11th Gen Intel(R) Core(TM) i5-11600K @ 3.90GHz 3.91 GHz, RAM: 16.0 GB, järjestelmä: Windows 10 Pro
+Tein harjoituksen 2023-11-20. Työaseman prosessori: 11th Gen Intel(R) Core(TM) i5-11600K @ 3.90GHz 3.91 GHz, RAM: 16.0 GB, järjestelmä: Windows 10 Pro, Linux-komentojen käyttöön Git Bash
 
 ### x) Lue ja tiivistä
   - Salt Vagrant
@@ -21,6 +21,9 @@ Tein harjoituksen 2023-11-20. Työaseman prosessori: 11th Gen Intel(R) Core(TM) 
     - Koska joissakin ympäristöissä on satoja tilatiedostoja, jotka on kohdistettu tuhansiin orjiin, ei ole käytännöllistä ajaa jokaista tilaa erikseen ja kohdistaa sitten soveltuviin orjiin joka kerta
     - Itse asia tilan id:ksi, name arvoksi tulee automaattisesti sama
 
+  - Pkg-File-Service
+    - Näytetään, miten Saltin tiloilla voidaan määritellä SSHd konfiguraatiota
+    - Vaihdetaan kuunneltava portti
 
 ### a) Hello SLS!
 
@@ -40,4 +43,4 @@ Tein harjoituksen 2023-11-20. Työaseman prosessori: 11th Gen Intel(R) Core(TM) 
 - VMware, Inc. 2023: Salt overview https://docs.saltproject.io/salt/user-guide/en/latest/topics/overview.html#rules-of-yaml
 - VMware, Inc. 2023: Salt states https://docs.saltproject.io/salt/user-guide/en/latest/topics/states.html#state-modules
 - Karvinen 2018: Pkg-File-Service – Control Daemons with Salt – Change SSH Server Port https://terokarvinen.com/2018/04/03/pkg-file-service-control-daemons-with-salt-change-ssh-server-port/?fromSearch=karvinen%20salt%20ssh
-- 
+- Karvinen 2023: Salt Vagrant - automatically provision one master and two slaves https://terokarvinen.com/2023/salt-vagrant/
