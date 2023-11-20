@@ -61,7 +61,7 @@ Ja sitten poistin sen käsin.
 
 ![](kuvat/h4-Demonit/Capture23.PNG)
 
-
+Sitten tein sls-tiedoston Tero Karvisen ohjeiden mukaan. (https://terokarvinen.com/2018/apache-user-homepages-automatically-salt-package-file-service-example/)
 ![](kuvat/h4-Demonit/Capture26.PNG)
 
 ![](kuvat/h4-Demonit/Capture27.PNG)
