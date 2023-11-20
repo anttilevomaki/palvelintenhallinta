@@ -53,9 +53,10 @@ Näin saatiin tilat ajettua automaattisesti ilman, erillistä määrittelyä.
 
 ### c) Apache
 
-
+Aluksi asensin käsin apachen minionille.
 ![](kuvat/h4-Demonit/Capture22.PNG)
 
+Ja sitten poistin sen käsin.
 ![](kuvat/h4-Demonit/Capture23.PNG)
 
 ![](kuvat/h4-Demonit/Capture26.PNG)
