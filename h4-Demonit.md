@@ -27,6 +27,15 @@ Tein harjoituksen 2023-11-20. Työaseman prosessori: 11th Gen Intel(R) Core(TM) 
 
 ### a) Hello SLS!
 
+![](kuvat/h4-Demonit/Capture01.PNG)
+
+![](kuvat/h4-Demonit/Capture03.PNG)
+
+![](kuvat/h4-Demonit/Capture05.PNG)
+
+![](kuvat/h4-Demonit/Capture06.PNG)
+
+![](kuvat/h4-Demonit/Capture08.PNG)
 
 ### b) Top
 
