@@ -40,8 +40,7 @@ Tein hello-kansion ja sine init.sls-tiedoston, jonne laitoin alla olevan tekstin
 Testasin myös, että yhteydet toimivat minioneihin.
 ![](kuvat/h4-Demonit/Capture06.PNG)
 
-Ja kuten alla näkyy, "Hei maailma".
-
+Ja kuten alla näkyy, "Hei maailma". Komennolla sudo salt '*' state.apply hello
 ![](kuvat/h4-Demonit/Capture08.PNG)
 
 ### b) Top
