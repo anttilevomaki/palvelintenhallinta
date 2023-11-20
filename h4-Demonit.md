@@ -1,7 +1,5 @@
 # h4 Demonit
 
-# Kesken
-
 Tein harjoituksen 2023-11-20. Työaseman prosessori: 11th Gen Intel(R) Core(TM) i5-11600K @ 3.90GHz 3.91 GHz, RAM: 16.0 GB, järjestelmä: Windows 10 Pro, Linux-komentojen käyttöön Git Bash
 
 ### x) Lue ja tiivistä
@@ -86,3 +84,4 @@ Ilo oli osittain lyhytaikainen, sillä vaikka suurin osa asennuksista onnistui, 
 - Karvinen 2018: Pkg-File-Service – Control Daemons with Salt – Change SSH Server Port https://terokarvinen.com/2018/04/03/pkg-file-service-control-daemons-with-salt-change-ssh-server-port/?fromSearch=karvinen%20salt%20ssh
 - Karvinen 2023: Salt Vagrant - automatically provision one master and two slaves https://terokarvinen.com/2023/salt-vagrant/
 - Karvinen 2018: Apache User Homepages Automatically – Salt Package-File-Service Example https://terokarvinen.com/2018/apache-user-homepages-automatically-salt-package-file-service-example/
+- Karvinen 2018: Pkg-File-Service – Control Daemons with Salt – Change SSH Server Port https://terokarvinen.com/2018/04/03/pkg-file-service-control-daemons-with-salt-change-ssh-server-port/?fromSearch=karvinen%20salt%20ssh
