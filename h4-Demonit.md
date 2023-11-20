@@ -28,6 +28,7 @@ Tein harjoituksen 2023-11-20. Työaseman prosessori: 11th Gen Intel(R) Core(TM) 
 ### a) Hello SLS!
 
 Omalla koneella oli vielä vanha vagrantfile aiemmasta, tehtävästä, mutta kyseiset virtuaalikoneet olin tuhonnut tehtävän lopuksi, joten uudet virtuaalikoneet luontiin komennolla vagrant up -komennolla. Yksi master ja kaksi minionia, Tero Karvisen ohjeiden mukaan (https://terokarvinen.com/2023/salt-vagrant/).
+
 ![](kuvat/h4-Demonit/Capture01.PNG)
 
 Komennolla vagrant ssh tmaster kirjauduin virtuaalikoneelle ja sain minionien odottavat avaimet näkyviin komennolla sudo salt-key -A.
@@ -40,6 +41,7 @@ Testasin myös, että yhteydet toimivat minioneihin.
 ![](kuvat/h4-Demonit/Capture06.PNG)
 
 Ja kuten alla näkyy, "Hei maailma".
+
 ![](kuvat/h4-Demonit/Capture08.PNG)
 
 ### b) Top
