@@ -48,7 +48,7 @@ Ja kuten alla näkyy, "Hei maailma". Komennolla sudo salt '*' state.apply hello
 top.sls-tiedoston luonti komennolla sudoedit /srv/salt/top.sls
 ![](kuvat/h4-Demonit/Capture11.PNG)
 
-Näin saatiin tilat ajettua automaattisesti ilman, että erillistä määrittelyä.
+Näin saatiin tilat ajettua automaattisesti ilman, erillistä määrittelyä.
 ![](kuvat/h4-Demonit/Capture13.PNG)
 
 ### c) Apache
