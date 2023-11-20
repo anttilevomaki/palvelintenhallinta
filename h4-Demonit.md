@@ -75,10 +75,13 @@ Ilo oli osittain lyhytaikainen, sillä vaikka suurin osa asennuksista onnistui, 
 
 ### d) SSHouto
 
+Ohjeiden mukaan yritin tehdä tämän virtuaalikoneella, eli VirtualBoxissa Debianilla, enkä omalla koneella.
+Aluksi loin komentorivillä tarvittavat tiedostot, joista ensimmäinen oli sshd.sls.
 ![](kuvat/h4-Demonit/Capture33.PNG)
 
 ![](kuvat/h4-Demonit/Capture32.PNG)
 
+Toinen tiedosto oli sshd_config. Molemmat tein Tero Karvisen ohjeilla. (https://terokarvinen.com/2018/04/03/pkg-file-service-control-daemons-with-salt-change-ssh-server-port/?fromSearch=karvinen%20salt%20ssh)
 ![](kuvat/h4-Demonit/Capture34.PNG)
 
 
