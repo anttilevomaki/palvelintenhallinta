@@ -45,7 +45,7 @@ Ja kuten alla näkyy, "Hei maailma". Komennolla sudo salt '*' state.apply hello
 
 ### b) Top
 
-top.sls-tiedoston luonti komennolla sudoedit /srv/salt/top.sls
+top.sls-tiedoston luonti komennolla sudoedit /srv/salt/top.sls (https://terokarvinen.com/2023/salt-vagrant/)
 ![](kuvat/h4-Demonit/Capture11.PNG)
 
 Näin saatiin tilat ajettua automaattisesti ilman, erillistä määrittelyä.
@@ -53,6 +53,18 @@ Näin saatiin tilat ajettua automaattisesti ilman, erillistä määrittelyä.
 
 ### c) Apache
 
+
+![](kuvat/h4-Demonit/Capture22.PNG)
+
+![](kuvat/h4-Demonit/Capture23.PNG)
+
+![](kuvat/h4-Demonit/Capture26.PNG)
+
+![](kuvat/h4-Demonit/Capture27.PNG)
+
+![](kuvat/h4-Demonit/Capture28.PNG)
+
+![](kuvat/h4-Demonit/Capture29.PNG)
 
 ### d) SSHouto
 
@@ -64,3 +76,4 @@ Näin saatiin tilat ajettua automaattisesti ilman, erillistä määrittelyä.
 - VMware, Inc. 2023: Salt states https://docs.saltproject.io/salt/user-guide/en/latest/topics/states.html#state-modules
 - Karvinen 2018: Pkg-File-Service – Control Daemons with Salt – Change SSH Server Port https://terokarvinen.com/2018/04/03/pkg-file-service-control-daemons-with-salt-change-ssh-server-port/?fromSearch=karvinen%20salt%20ssh
 - Karvinen 2023: Salt Vagrant - automatically provision one master and two slaves https://terokarvinen.com/2023/salt-vagrant/
+- Karvinen 2018: Apache User Homepages Automatically – Salt Package-File-Service Example https://terokarvinen.com/2018/apache-user-homepages-automatically-salt-package-file-service-example/
