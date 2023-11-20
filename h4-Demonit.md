@@ -65,6 +65,7 @@ Sitten tein sls-tiedoston Tero Karvisen ohjeiden mukaan. (https://terokarvinen.c
 
 ![](kuvat/h4-Demonit/Capture26.PNG)
 
+Ensimmäisellä yrityksellä tuli virheilmoitus, joka johtui kirjoitusvirheestä
 ![](kuvat/h4-Demonit/Capture27.PNG)
 
 ![](kuvat/h4-Demonit/Capture28.PNG)
