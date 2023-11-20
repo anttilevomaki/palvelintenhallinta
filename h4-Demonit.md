@@ -81,8 +81,12 @@ Aluksi loin komentorivillä tarvittavat tiedostot, joista ensimmäinen oli sshd.
 
 ![](kuvat/h4-Demonit/Capture32.PNG)
 
-Toinen tiedosto oli sshd_config. Molemmat tein Tero Karvisen ohjeilla. (https://terokarvinen.com/2018/04/03/pkg-file-service-control-daemons-with-salt-change-ssh-server-port/?fromSearch=karvinen%20salt%20ssh)
+Toinen tiedosto oli sshd_config. Molemmat tiedostot tein Tero Karvisen ohjeilla. (https://terokarvinen.com/2018/04/03/pkg-file-service-control-daemons-with-salt-change-ssh-server-port/?fromSearch=karvinen%20salt%20ssh)
 ![](kuvat/h4-Demonit/Capture34.PNG)
+
+Komento ei kuitenkaan toiminut, vaikka master ja minion oli koneelle asennettu aiemmin.
+![](kuvat/h4-Demonit/Capture35.PNG)
+![](kuvat/h4-Demonit/Capture36.PNG)
 
 
 ## References
