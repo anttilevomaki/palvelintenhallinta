@@ -4,7 +4,12 @@ Tein harjoituksen 2023-11-26. Työaseman prosessori: 11th Gen Intel(R) Core(TM) 
 
 ### x) Lue ja tiivistä
   - Apache User Homepages Automatically
-    - XXX
+    - Asenna ensin manuaalisesti, automatisointi vasta sen jälkeen.
+    - $ find -printf "%T+ %p\n"|sort
+      - "%T+" on muokkausaika
+      - "%p" on tiedostonimi ja polku
+      - "\n" on uusi rivi
+    - Komennosta pitää tehdä idempotentti.
 
 
 ## References
