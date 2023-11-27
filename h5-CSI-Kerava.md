@@ -13,6 +13,7 @@ Tein harjoituksen 2023-11-26. Työaseman prosessori: 11th Gen Intel(R) Core(TM) 
 
 # a) CSI Kerava
 
+Käytin Tero Karvisen vinkkiä (https://terokarvinen.com/2023/configuration-management-2023-autumn/) eli komentoa "find -printf '%T+ %p\n'". Tähän komentoon lisäsin ensin /etc ja toiseen /home/antti.
 ![](kuvat/h5-CSI-Kerava/Capture04.PNG)
 
 ![](kuvat/h5-CSI-Kerava/Capture05.PNG)
