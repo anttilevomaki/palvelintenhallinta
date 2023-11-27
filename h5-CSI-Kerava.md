@@ -11,6 +11,12 @@ Tein harjoituksen 2023-11-26. Työaseman prosessori: 11th Gen Intel(R) Core(TM) 
       - "\n" on uusi rivi
     - Komennosta pitää tehdä idempotentti.
 
+# a) CSI Kerava
+
+![](kuvat/h5-CSI-Kerava/Capture04.PNG)
+
+![](kuvat/h5-CSI-Kerava/Capture05.PNG)
+
 
 ## References
 - Karvinen 2023: Infra as Code 2023 - Palvelinten Hallinta 2023 syksy https://terokarvinen.com/2023/configuration-management-2023-autumn/
