@@ -18,6 +18,10 @@ Käytin Tero Karvisen vinkkiä (https://terokarvinen.com/2023/configuration-mana
 
 ![](kuvat/h5-CSI-Kerava/Capture05.PNG)
 
+# b) Gui2fs
+
+Yritin muokata terminaalin fontin kokoa, mutta ei tuntunut toimivan.
+![](kuvat/h5-CSI-Kerava/Capture11.PNG)
 
 ## References
 - Karvinen 2023: Infra as Code 2023 - Palvelinten Hallinta 2023 syksy https://terokarvinen.com/2023/configuration-management-2023-autumn/
