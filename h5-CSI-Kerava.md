@@ -25,10 +25,21 @@ Yritin muokata terminaalin fontin kokoa, mutta ei tuntunut toimivan.
 
 # c) Komennus
 
+Tein aluksi hello worldin ja annoin sille execute-oikeudet.
+
 ![](kuvat/h5-CSI-Kerava/Capture21.PNG)
 ![](kuvat/h5-CSI-Kerava/Capture22.PNG)
+
+Sitten tein sille sls-tiedoston.
+
 ![](kuvat/h5-CSI-Kerava/Capture23.PNG)
+
+Toteutus ei kuitenkaan onnistunut, eikä ollut aikaa alkaa korjaamaan.
 ![](kuvat/h5-CSI-Kerava/Capture25.PNG)
+
+# d) Apassi
+
+
 
 
 ## References
