@@ -39,9 +39,18 @@ Toteutus ei kuitenkaan onnistunut, eikä ollut aikaa alkaa korjaamaan.
 
 # d) Apassi
 
+Yritin tehdä html-tiedoston sekä init-tiedoston Tero Karvisen ohjeiden mukaan (https://terokarvinen.com/2018/04/03/apache-user-homepages-automatically-salt-package-file-service-example/).
+![](kuvat/h5-CSI-Kerava/Capture31.PNG)
 
+Loppuun asti ei kuitenkaan päästy, eikä ollut aikaa korjata ennen palautuksen deadlinea.
+![](kuvat/h5-CSI-Kerava/Capture33.PNG)
 
+# e) Ämpärillinen
+
+Tähänkin pitää palata myöhemmin. Turha tehdä vain jotain, kun edellisetkään eivät toimineet.
 
 ## References
 - Karvinen 2023: Infra as Code 2023 - Palvelinten Hallinta 2023 syksy https://terokarvinen.com/2023/configuration-management-2023-autumn/
 - Karvinen 2018: Apache User Homepages Automatically https://terokarvinen.com/2018/04/03/apache-user-homepages-automatically-salt-package-file-service-example/
+- Karvinen 2018: Apache User Homepages Automatically – Salt Package-File-Service Example https://terokarvinen.com/2018/04/03/apache-user-homepages-automatically-salt-package-file-service-example/
+- Karppinen 2023: h5 Kerava https://github.com/SakuKarp/Palvelinten.Hallinta/blob/main/h5%20Kerava.md
