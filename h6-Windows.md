@@ -26,6 +26,7 @@ Tein harjoituksen 2023-12-02. Työaseman prosessori: 11th Gen Intel(R) Core(TM) 
 
 Asensin windowsin uuteen virtuaalikoneeseen VirtualBoxissa tämän ohjeen mukaan. (https://github.com/therealhalonen/PhishSticks/blob/master/notes/ollikainen/windows.md)
 Tämä tehtiin jo tunnilla, joten siitä ei tullut otettua screenshotteja eri vaiheista. Alla kuitenkin kuva käynnissä olevasta virtuaalikoneesta.
+
 ![](kuvat/h6-Windows/Capture00.PNG)
 
 ## b) Asenna Salt Windowsille.
@@ -43,6 +44,7 @@ Asennus tuli valmiiksi ja laitoin saltin käynnistymään heti.
 ![](kuvat/h6-Windows/Capture03.PNG)
 
 Komennolla "salt-call --local --version" saatiin saltin versio, joten asennuksen pitäisi olla onnistunut.
+
 ![](kuvat/h6-Windows/Capture04.PNG)
    
 
