@@ -31,12 +31,14 @@ Tämä tehtiin jo tunnilla, joten siitä ei tullut otettua screenshotteja eri va
 ## b) Asenna Salt Windowsille.
 
 Latasin ja asensin saltin virtuaalikoneelle osoitteesta https://docs.saltproject.io/salt/install-guide/en/latest/topics/install-by-operating-system/windows.html.
+
 ![](kuvat/h6-Windows/Capture01.PNG)
 
 Olin ilmeisesti jo tehnyt tämänkin tunnilla, mutta asensin sen silti uudelleen. Asennuksen aikana tuli siihen liittyen myös tällainen ilmoitus.
 ![](kuvat/h6-Windows/Capture02.PNG)
 
 Asennus tuli valmiiksi ja laitoin saltin käynnistymään heti.
+
 ![](kuvat/h6-Windows/Capture03.PNG)
 
 Komennolla "salt-call --local --version" saatiin saltin versio, joten asennuksen pitäisi olla onnistunut.
