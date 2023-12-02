@@ -35,6 +35,7 @@ Latasin ja asensin saltin virtuaalikoneelle osoitteesta https://docs.saltproject
 ![](kuvat/h6-Windows/Capture01.PNG)
 
 Olin ilmeisesti jo tehnyt tämänkin tunnilla, mutta asensin sen silti uudelleen. Asennuksen aikana tuli siihen liittyen myös tällainen ilmoitus.
+
 ![](kuvat/h6-Windows/Capture02.PNG)
 
 Asennus tuli valmiiksi ja laitoin saltin käynnistymään heti.
