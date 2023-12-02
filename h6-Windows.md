@@ -73,10 +73,23 @@ Uusi testitiedosto myös löytyi tämän jälkeen C:ltä.
 
 ![](kuvat/h6-Windows/Capture13.PNG)
 
+## e) Kokeile jotain itsellesi uutta toimintoa Saltista Windowsilla.
+
+Salt Projectin sivuilta (https://docs.saltproject.io/en/latest/topics/windows/windows-package-manager.html#install-a-package) löysin komennon, jolla sain listattua järjestelmään asennetut paketit. Komento oli "salt-call --local pkg.list_pkgs".
+
+![](kuvat/h6-Windows/Capture14.PNG)
+
+Kokeilin myös Teron ohjeiden (https://terokarvinen.com/2018/04/18/control-windows-with-salt/) mukaan asentaa firefoxia, mutta se ei pelkästään tuolla komennolla onnistunut.
+
+![](kuvat/h6-Windows/Capture15.PNG)
+
+
 ## References
 - Karvinen 2023: Infra as Code 2023 - Palvelinten Hallinta 2023 syksy https://terokarvinen.com/2023/configuration-management-2023-autumn/
 - Kunnari 2019: Windows as Salt-minion – homework 5 https://irenekunnari.wordpress.com/2019/05/01/windows-as-salt-minion/
 - Halonen, Rajala, Ollikainen 2023: Installing Windows 10 on a virtual machine https://github.com/therealhalonen/PhishSticks/blob/master/notes/ollikainen/windows.md
 - The Linux Foundation 2015: Filesystem Hierarchy Standard https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html
 - Salt Project 2023: Windows - Salt installguide https://docs.saltproject.io/salt/install-guide/en/latest/topics/install-by-operating-system/windows.html
+- Salt Project 2023: Windows Package manager https://docs.saltproject.io/en/latest/topics/windows/windows-package-manager.html#install-a-package
+- Karvinen 2018: Control Windows with Salt https://terokarvinen.com/2018/04/18/control-windows-with-salt/
 - RenneJ 2023: H6 Windows https://github.com/RenneJ/hh-palvelinten-hallinta/blob/main/h6-windows.md
