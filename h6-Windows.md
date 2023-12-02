@@ -47,6 +47,12 @@ Komennolla "salt-call --local --version" saatiin saltin versio, joten asennuksen
 
 ![](kuvat/h6-Windows/Capture04.PNG)
    
+## c) Kerää Windows-koneesta tietoa grains.items -toiminnolla.
+
+Pelkällä "salt-call --local grains.items" -komennolla tuli parin sivun verran tavaraa, ml. paljon varoitus- ja virheilmoituksia.
+
+![](kuvat/h6-Windows/Capture06.PNG)
+![](kuvat/h6-Windows/Capture07.PNG)
 
 
 ## References
