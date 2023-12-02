@@ -59,10 +59,16 @@ Nämä virheilmoitukset johtuivat kuitenkin siitä etten aluksi ajanut command p
 ![](kuvat/h6-Windows/Capture08.PNG)
 ![](kuvat/h6-Windows/Capture09.PNG)
 
-Alla sitten muutama grains.item -komento: osfinger, cwd, systempath.
+Alla sitten muutama grains.item -komento: osfinger kertoo käyttöjärjestelmän, cwd current working directory, systempath ilmeisesti järjetelmäpolku eli listaus hakemistoista, jotka ovat käytössä tai joita tarvitaan.
 
 ![](kuvat/h6-Windows/Capture11.PNG)
 
+## d) Kokeile Saltin file -toimintoa Windowsilla.
+
+Näin kokemattomalle nämä tehtävänannot ovat vähän epäselviä, joten tähän katsoin mallia kokeneemman Linux-osaajan raportilta, kiitos Renne. 
+
+![](kuvat/h6-Windows/Capture12.PNG)
+![](kuvat/h6-Windows/Capture13.PNG)
 
 ## References
 - Karvinen 2023: Infra as Code 2023 - Palvelinten Hallinta 2023 syksy https://terokarvinen.com/2023/configuration-management-2023-autumn/
@@ -70,3 +76,4 @@ Alla sitten muutama grains.item -komento: osfinger, cwd, systempath.
 - Halonen, Rajala, Ollikainen 2023: Installing Windows 10 on a virtual machine https://github.com/therealhalonen/PhishSticks/blob/master/notes/ollikainen/windows.md
 - The Linux Foundation 2015: Filesystem Hierarchy Standard https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html
 - Salt Project 2023: Windows - Salt installguide https://docs.saltproject.io/salt/install-guide/en/latest/topics/install-by-operating-system/windows.html
+- RenneJ 2023: H6 Windows https://github.com/RenneJ/hh-palvelinten-hallinta/blob/main/h6-windows.md
