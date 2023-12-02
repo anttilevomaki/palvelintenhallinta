@@ -22,7 +22,25 @@ Tein harjoituksen 2023-12-02. Työaseman prosessori: 11th Gen Intel(R) Core(TM) 
     - /usr - on tiedostojärjestelmän toinen tärkeä osa. /usr on jaettavaa, read-only dataa
     - /var - sisältää muuttuvia datatiedostoja
 
+## a) Asenna Windows virtuaalikoneeseen.
 
+Asensin windowsin uuteen virtuaalikoneeseen VirtualBoxissa tämän ohjeen mukaan. (https://github.com/therealhalonen/PhishSticks/blob/master/notes/ollikainen/windows.md)
+Tämä tehtiin jo tunnilla, joten siitä ei tullut otettua screenshotteja eri vaiheista. Alla kuitenkin kuva käynnissä olevasta virtuaalikoneesta.
+![](kuvat/h6-Windows/Capture00.PNG)
+
+## b) Asenna Salt Windowsille.
+
+Latasin ja asensin saltin virtuaalikoneelle osoitteesta https://docs.saltproject.io/salt/install-guide/en/latest/topics/install-by-operating-system/windows.html.
+![](kuvat/h6-Windows/Capture01.PNG)
+
+Olin ilmeisesti jo tehnyt tämänkin tunnilla, mutta asensin sen silti uudelleen. Asennuksen aikana tuli siihen liittyen myös tällainen ilmoitus.
+![](kuvat/h6-Windows/Capture02.PNG)
+
+Asennus tuli valmiiksi ja laitoin saltin käynnistymään heti.
+![](kuvat/h6-Windows/Capture03.PNG)
+
+Komennolla "salt-call --local --version" saatiin saltin versio, joten asennuksen pitäisi olla onnistunut.
+![](kuvat/h6-Windows/Capture04.PNG)
    
 
 
@@ -31,3 +49,4 @@ Tein harjoituksen 2023-12-02. Työaseman prosessori: 11th Gen Intel(R) Core(TM) 
 - Kunnari 2019: Windows as Salt-minion – homework 5 https://irenekunnari.wordpress.com/2019/05/01/windows-as-salt-minion/
 - Halonen, Rajala, Ollikainen 2023: Installing Windows 10 on a virtual machine https://github.com/therealhalonen/PhishSticks/blob/master/notes/ollikainen/windows.md
 - The Linux Foundation 2015: Filesystem Hierarchy Standard https://refspecs.linuxfoundation.org/FHS_3.0/fhs/index.html
+- Salt Project 2023: Windows - Salt installguide https://docs.saltproject.io/salt/install-guide/en/latest/topics/install-by-operating-system/windows.html
