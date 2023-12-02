@@ -59,6 +59,10 @@ Nämä virheilmoitukset johtuivat kuitenkin siitä etten aluksi ajanut command p
 ![](kuvat/h6-Windows/Capture08.PNG)
 ![](kuvat/h6-Windows/Capture09.PNG)
 
+Alla sitten muutama grains.item -komento: osfinger, cwd, systempath.
+
+![](kuvat/h6-Windows/Capture11.PNG)
+
 
 ## References
 - Karvinen 2023: Infra as Code 2023 - Palvelinten Hallinta 2023 syksy https://terokarvinen.com/2023/configuration-management-2023-autumn/
