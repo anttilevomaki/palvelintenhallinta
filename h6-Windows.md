@@ -54,6 +54,11 @@ Pelkällä "salt-call --local grains.items" -komennolla tuli parin sivun verran 
 ![](kuvat/h6-Windows/Capture06.PNG)
 ![](kuvat/h6-Windows/Capture07.PNG)
 
+Nämä virheilmoitukset johtuivat kuitenkin siitä etten aluksi ajanut command promptia administratorina. Sama komento uudestaan niin oikeaa tietoa alkoi tulla sivukaupalla.
+
+![](kuvat/h6-Windows/Capture08.PNG)
+![](kuvat/h6-Windows/Capture09.PNG)
+
 
 ## References
 - Karvinen 2023: Infra as Code 2023 - Palvelinten Hallinta 2023 syksy https://terokarvinen.com/2023/configuration-management-2023-autumn/
