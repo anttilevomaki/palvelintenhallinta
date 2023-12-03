@@ -11,7 +11,7 @@ Tein harjoituksen 2023-12-02. Työaseman prosessori: 11th Gen Intel(R) Core(TM) 
   - Installing Windows 10 on a virtual machine
     - Lataa windows10-iso-tiedosto
     - Luo VirtualBoxissa uusi virtuaalikone ja asenna siihen äsken ladattu iso-tiedosto
-    - Valitse oikeat näppäimistö- kieli- ym. valinnat
+    - Valitse oikeat näppäimistö- kieli- ym. asetukset
   - Filesystem Hierarchy Standard
     - root - juuri
     - /bin - sisältää komentoja, joita sekä sysadmin että käyttäjät voivat käyttää
