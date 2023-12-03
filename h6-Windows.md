@@ -65,7 +65,7 @@ Alla sitten muutama grains.item -komento: osfinger kertoo käyttöjärjestelmän
 
 ## d) Kokeile Saltin file -toimintoa Windowsilla.
 
-Näin kokemattomalle nämä tehtävänannot ovat vähän epäselviä, joten tähän katsoin mallia kokeneemman Linux-osaajan raportilta, kiitos Renne. Loin C:lle tekstitiedoston komennolla "salt-call --local state.single file.managed C:\testfile.txt". Tehtävä myös onnistui.
+Tähän katsoin mallia kokeneemman Linux-osaajan raportilta (https://github.com/RenneJ/hh-palvelinten-hallinta/blob/main/h6-windows.md). Loin C:lle tekstitiedoston komennolla "salt-call --local state.single file.managed C:\testfile.txt". Tehtävä myös onnistui.
 
 ![](kuvat/h6-Windows/Capture12.PNG)
 
