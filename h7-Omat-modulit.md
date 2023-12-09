@@ -1,6 +1,6 @@
 # h7 Omat modulit
 
-Tein harjoituksen 2023-12-08. Työaseman prosessori: 11th Gen Intel(R) Core(TM) i5-11600K @ 3.90GHz 3.91 GHz, RAM: 16.0 GB, järjestelmä: Windows 10 Pro, Oracle VM VirtualBox, Debian GNU/Linux 12 (bookworm)
+Tein harjoituksen 2023-12-09. Työaseman prosessori: 11th Gen Intel(R) Core(TM) i5-11600K @ 3.90GHz 3.91 GHz, RAM: 16.0 GB, järjestelmä: Windows 10 Pro, Oracle VM VirtualBox, Debian GNU/Linux 12 (bookworm)
 
 ## Modulin tarkoitus
 
@@ -41,6 +41,18 @@ Asennus onnistui ja Spotify löytyy Linuxin sovellusvalikosta ja aukeaa käyttö
 
 ![](kuvat/h7-omat-modulit/Capture12.PNG)
 ![](kuvat/h7-omat-modulit/Capture13.PNG)
+
+### ???
+
+Kaikkien kolmen ohjelman asennus onnistui siis manuaalisesti. Seuraavaksi oli tarkoitus saada se toteutettua yhdellä komennolla. Tämä oli kutenkin vaikeampaa, kuin piti.
+
+![](kuvat/h7-omat-modulit/Capture15.PNG)
+![](kuvat/h7-omat-modulit/Capture14.PNG)
+
+![](kuvat/h7-omat-modulit/Capture16.PNG)
+![](kuvat/h7-omat-modulit/Capture17.PNG)
+![](kuvat/h7-omat-modulit/Capture18.PNG)
+![](kuvat/h7-omat-modulit/Capture19.PNG)
 
 ## References
 - Karvinen 2023: Infra as Code 2023 - Palvelinten Hallinta 2023 syksy https://terokarvinen.com/2023/configuration-management-2023-autumn/
