@@ -55,12 +55,26 @@ Kopioin tiedostoja oikeaan paikkaan.
 ![](kuvat/h7-omat-modulit/Capture16.PNG)
 ![](kuvat/h7-omat-modulit/Capture17.PNG)
 
+Alla ensimmäinen versio init.sls -tiedostosta, jossa tässä vaiheessa vain spotify.
+
 ![](kuvat/h7-omat-modulit/Capture22.PNG)
+
+Tiedoston ajaminen ei kuitenkaan onnistunut, kuten alla olevasta kuvasta näkyy.
+
 ![](kuvat/h7-omat-modulit/Capture21.PNG)
-![](kuvat/h7-omat-modulit/Capture20.PNG)
+
+Varmistin, että salt master ja minion on virtuaalikoneelle asennettu ja näin olikin, mutta siitä huolimatta ei toimi.
 
 ![](kuvat/h7-omat-modulit/Capture18.PNG)
+
+Tiedoston ajaminen ei onnistunut virtuaalikoneella myöskään paikallisesti.
+
 ![](kuvat/h7-omat-modulit/Capture19.PNG)
+
+
+
+
+![](kuvat/h7-omat-modulit/Capture20.PNG)
 
 ## References
 - Karvinen 2023: Infra as Code 2023 - Palvelinten Hallinta 2023 syksy https://terokarvinen.com/2023/configuration-management-2023-autumn/
