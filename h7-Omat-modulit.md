@@ -87,7 +87,7 @@ Tuohon virheilmoitukseen löysin yhden vastauksen tältä sivulta. (https://phoe
 
 ![](kuvat/h7-omat-modulit/Capture25.PNG)
 
-
+Joten palasin takaisin ensimmäiseen virtuaalikoneeseen. 
 
 
 ## References
