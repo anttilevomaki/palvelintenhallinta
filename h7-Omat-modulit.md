@@ -71,10 +71,24 @@ Tiedoston ajaminen ei onnistunut virtuaalikoneella myöskään paikallisesti.
 
 ![](kuvat/h7-omat-modulit/Capture19.PNG)
 
+Kokeilin tehdä myös kokonaan uuden virtuaalikoneen ja tehdä samat asiat sillä, mutta se kaatui jo tähän. "apt-key is deprecated"
 
+![](kuvat/h7-omat-modulit/Capture23.PNG)
 
+Tässä vaiheessa päätin kokeilla aiemmassa tehtävässä tehtyjä kolmea virtuaalikonetta (tmaster, t001, t002), joita ajoin Git Bashilla omalta Windows-koneelta. Sain koneet ylös ja yhteyden masterilta minioneille.
 
 ![](kuvat/h7-omat-modulit/Capture20.PNG)
+
+Siihen sitten hyvät uutiset loppuivatkin. Yritin asentaa tmasterille Bravea samalla tavalla, kuin aiemmin Debian-virtuaalikoneelle VirtualBoxissa, mutta siinäkin tuli virheilmoitus.
+
+![](kuvat/h7-omat-modulit/Capture24.PNG)
+
+Tuohon virheilmoitukseen löysin yhden vastauksen tältä sivulta. (https://phoenixnap.com/kb/fix-sub-process-usr-bin-dpkg-returned-error-code-1) "Ratkaisu" oli ajaa komento 'sudo apt-get install -f'. Kun kokeilin uudestaan, niin sain erilaisen virheilmoituksen.
+
+![](kuvat/h7-omat-modulit/Capture25.PNG)
+
+
+
 
 ## References
 - Karvinen 2023: Infra as Code 2023 - Palvelinten Hallinta 2023 syksy https://terokarvinen.com/2023/configuration-management-2023-autumn/
@@ -83,3 +97,4 @@ Tiedoston ajaminen ei onnistunut virtuaalikoneella myöskään paikallisesti.
 - Brave 2023: Installing Brave on Linux https://brave.com/linux/
 - Microsoft 2023: Visual Studio Code on Linux https://code.visualstudio.com/docs/setup/linux
 - Spotify 2023: Spotify for Linux https://www.spotify.com/us/download/linux/
+- phoenixNAP 2022: How to Fix sub-process /usr/bin/dpkg returned an error code (1) in Ubuntu https://phoenixnap.com/kb/fix-sub-process-usr-bin-dpkg-returned-error-code-1
