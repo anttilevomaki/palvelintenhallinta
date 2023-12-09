@@ -83,7 +83,7 @@ Siihen sitten hyvät uutiset loppuivatkin. Yritin asentaa tmasterille Bravea sam
 
 ![](kuvat/h7-omat-modulit/Capture24.PNG)
 
-Tuohon virheilmoitukseen löysin yhden vastauksen tältä sivulta. (https://phoenixnap.com/kb/fix-sub-process-usr-bin-dpkg-returned-error-code-1) "Ratkaisu" oli ajaa komento 'sudo apt-get install -f'. Kun kokeilin uudestaan, niin sain erilaisen virheilmoituksen.
+Tuohon virheilmoitukseen löysin yhden vastauksen tältä sivulta. (https://phoenixnap.com/kb/fix-sub-process-usr-bin-dpkg-returned-error-code-1) "Ratkaisu" oli ajaa komento 'sudo apt-get install -f'. Kun kokeilin uudestaan, niin sain vain laajemman virheilmoituksen.
 
 ![](kuvat/h7-omat-modulit/Capture25.PNG)
 
