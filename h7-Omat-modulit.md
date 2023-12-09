@@ -42,15 +42,23 @@ Asennus onnistui ja Spotify löytyy Linuxin sovellusvalikosta ja aukeaa käyttö
 ![](kuvat/h7-omat-modulit/Capture12.PNG)
 ![](kuvat/h7-omat-modulit/Capture13.PNG)
 
-### ???
+### Asennuksen automatisointi
 
 Kaikkien kolmen ohjelman asennus onnistui siis manuaalisesti. Seuraavaksi oli tarkoitus saada se toteutettua yhdellä komennolla. Tämä oli kutenkin vaikeampaa, kuin piti.
+Aloitin hakemalla spotifyn avaimen.
 
 ![](kuvat/h7-omat-modulit/Capture15.PNG)
 ![](kuvat/h7-omat-modulit/Capture14.PNG)
 
+Kopioin tiedostoja oikeaan paikkaan.
+
 ![](kuvat/h7-omat-modulit/Capture16.PNG)
 ![](kuvat/h7-omat-modulit/Capture17.PNG)
+
+![](kuvat/h7-omat-modulit/Capture22.PNG)
+![](kuvat/h7-omat-modulit/Capture21.PNG)
+![](kuvat/h7-omat-modulit/Capture20.PNG)
+
 ![](kuvat/h7-omat-modulit/Capture18.PNG)
 ![](kuvat/h7-omat-modulit/Capture19.PNG)
 
