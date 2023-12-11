@@ -71,9 +71,8 @@ Tiedoston ajaminen ei onnistunut virtuaalikoneella myöskään paikallisesti.
 
 ![](kuvat/h7-omat-modulit/Capture19.PNG)
 
-Kokeilin tehdä myös kokonaan uuden virtuaalikoneen ja tehdä samat asiat sillä, mutta se kaatui jo tähän. "apt-key is deprecated"
+Kokeilin tehdä myös kokonaan uuden virtuaalikoneen ja tehdä samat asiat sillä uudestaan, mutta lopputulos oli edelleen sama.
 
-![](kuvat/h7-omat-modulit/Capture23.PNG)
 
 Tässä vaiheessa päätin kokeilla aiemmassa tehtävässä tehtyjä kolmea virtuaalikonetta (tmaster, t001, t002), joita ajoin Git Bashilla omalta Windows-koneelta. Sain koneet ylös ja yhteyden masterilta minioneille.
 
